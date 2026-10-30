@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Mobile Apps • Fintech • AI-Powered Tools</h3>
 
 <p align="center">
-  <a href="<your-linkedin-url>" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:khabdurrehman04@gmail.com">
@@ -39,9 +39,7 @@ I'm a Software Developer passionate about turning complex problems into sleek, u
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### ⚡ What I Build
+- 📱 **Cross-Platform Mobile Apps:** High-performance iOS & Android applications using Flutter and Dart
+- 💳 **Fintech Solutions:** Secure, modern financial interfaces and payment workflows
+- 🧠 **AI-Powered Products:** Smart features powered by Python and AI/ML integrations
